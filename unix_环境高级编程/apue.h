@@ -130,6 +130,6 @@ void	TELL_CHILD(pid_t);
 void	WAIT_PARENT(void);
 void	WAIT_CHILD(void);
 
-#include "error.c"
+#include "erroc.c"
 
 #endif	/* _APUE_H */
